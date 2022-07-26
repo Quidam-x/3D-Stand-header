@@ -1,0 +1,96 @@
+Finished Tutorial: Yes
+Understands Controller Open/Close: Yes
+Prompted For Controller Disables: Yes
+Understands Command Chaining: Yes
+Tree Compatibility Version: 38
+Self
+	Weapons
+		Aimbot
+			Aimbot: On
+			Re-engage Time (ms): 1
+			Smoothing: 0
+	Immortality: On
+	Lock Wanted Level: On
+Online
+	Enhancements
+		Disable Idle/AFK Kick: On
+	Protections: Warning Acknowledged
+		Events
+			Raw Network Events: Warning Acknowledged
+	Spoofing
+		Host Token Spoofing
+			Spoofed Host Token: 
+	Session
+		Become A Script Host Kleptomaniac: On
+Game
+	Disables
+		Prevent Numpad 7 Opening Social Club: On
+	Rendering
+		Lock Streaming Focus
+			Locked Position: -5.3821273, 6511.4785, 34.11898
+	Info Overlay
+		Player Tags
+			Friends: On
+			Modders: On
+			Attacked You: On
+	Edit HUD/UI Colours
+		WAYPOINT: A04CEFFF
+	Radio
+		Mobile Radio: On
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: 9696FFFF
+				Focused Text Colour: 000000E6
+				Focused Right-Bound Text Colour: 000000FF
+				Focused Texture Colour: 000000FF
+				Background Colour: 28193DCF
+				HUD Colour: FFFFFFFF
+			Position: 1392, 292
+			Header
+				Header: Custom
+				Frame Interval: 28
+				Legacy Positioning: Off
+			Address Bar
+				Root Name: Hidden
+				Show Current List Only: On
+				Height: 22
+				Show Cursor Position: On
+			Tabs
+				Width: 69
+				Position: Top
+				Text Alignment: Centre
+				Icons Use Text Colour: Off
+			Scrollbar
+				Scrollbar: Enabled
+				Width: 12
+			Command Info Text
+				Position: Bottom
+			Notifications
+				Type: Stand, Custom Position
+				Custom Position: 589, 1065
+				Width: 370
+				Border Colour: 124477FF
+				Flash Colour: 14422DFF
+			Border
+				Colour: 0019FFFF
+			List Width: 483
+			Spacer Size: 1
+			Stream-Proof Rendering: On
+		Input
+			Controller Support: Off
+	Lua Scripts
+		BinguScript: On
+		CodeScript: On
+		Godmode_Removals: On
+		JerryScript: On
+		JinxScript: On
+		KeramiScript.V.6.0: On
+		LanceScript Reloaded: On
+		LazScript: On
+		MayoScript: On
+		PhoenixScript: On
+		SmileScript: On
+		Tox1cEssent1als: On
+		WiriScript: On
